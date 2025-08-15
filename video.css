@@ -38,6 +38,9 @@
     margin-bottom: 8px;
     position: relative;
 }
+.thumbnail-row:hover{
+    cursor: pointer;
+}
 .video-grid{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
